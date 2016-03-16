@@ -1,7 +1,6 @@
 # serverSpeederInstaller
-锐速安装包，你懂的
 
-安装文件及使用教程见release
+这只是一个用于探讨算法的Demo，不能用于安装锐速
 
 Demo:
 ![image](https://github.com/BryanJin/serverSpeederInstaller/blob/master/images/Demo.png)
